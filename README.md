@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/AniketSurve0502/AniketSurve0502.git">
+
 <h1 align="center">Hi 👋, I'm Aniket Surve</h1>
 <h3 align="center">A passionate coder from India</h3>
 
