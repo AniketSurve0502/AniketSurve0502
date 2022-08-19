@@ -1,8 +1,8 @@
-<img align="center" src="![im1](https://user-images.githubusercontent.com/68893154/185568590-df53d6e4-287d-455f-bd8c-0db1dd1f2a3d.jpg)">
+
 
 <h1 align="center">Hi 👋, I'm Aniket Surve</h1>
 <h3 align="center">A passionate coder from India</h3>
-
+<img align="center" src="![im1](https://user-images.githubusercontent.com/68893154/185568590-df53d6e4-287d-455f-bd8c-0db1dd1f2a3d.jpg)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsurve0502&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsurve0502" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketsurve0502" alt="aniketsurve0502" /></a> </p>
