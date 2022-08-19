@@ -1,3 +1,4 @@
+<img align="center" src="![im1](https://user-images.githubusercontent.com/68893154/185568590-df53d6e4-287d-455f-bd8c-0db1dd1f2a3d.jpg)">
 
 <h1 align="center">Hi 👋, I'm Aniket Surve</h1>
 <h3 align="center">A passionate coder from India</h3>
