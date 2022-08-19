@@ -1,5 +1,5 @@
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="![im1](https://user-images.githubusercontent.com/68893154/185570265-2b44d7c9-a38a-40c6-a6f3-bf732c2f28ff.jpg)" alt="Girl in a jacket" align="center" width="500" height="600">
 AniketSurve0502/AniketSurve050
 <h1 align="center">Hi 👋, I'm Aniket Surve</h1>
 <h3 align="center">A passionate coder from India</h3>
