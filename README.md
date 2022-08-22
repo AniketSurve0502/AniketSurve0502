@@ -1,6 +1,4 @@
 
-<img src="![im1](https://user-images.githubusercontent.com/68893154/185570265-2b44d7c9-a38a-40c6-a6f3-bf732c2f28ff.jpg)" alt="Girl in a jacket" align="center" width="500" height="600">
-AniketSurve0502/AniketSurve050
 <h1 align="center">Hi 👋, I'm Aniket Surve</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="center" src="![im1](https://user-images.githubusercontent.com/68893154/185568590-df53d6e4-287d-455f-bd8c-0db1dd1f2a3d.jpg)">
