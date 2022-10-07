@@ -1,6 +1,6 @@
 
-<br>
-<img src="![image](https://user-images.githubusercontent.com/68893154/194627632-7dfe3556-e399-404e-b54e-3aa4396168ee.png)" width=100%"><br> </img>
+
+<img src="![image](https://user-images.githubusercontent.com/68893154/194627632-7dfe3556-e399-404e-b54e-3aa4396168ee.png)" width="100%"><br> </img>
 
 <h1 align="center">Hi 👋, I'm Aniket Surve</h1>
 <h3 align="center">A passionate coder from India</h3>
