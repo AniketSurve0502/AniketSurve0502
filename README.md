@@ -1,3 +1,4 @@
+<img src="![image](https://user-images.githubusercontent.com/68893154/194627632-7dfe3556-e399-404e-b54e-3aa4396168ee.png)" width=100%">
 
 <h1 align="center">Hi 👋, I'm Aniket Surve</h1>
 <h3 align="center">A passionate coder from India</h3>
@@ -8,11 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/aniketsurve05" target="blank"><img src="https://img.shields.io/twitter/follow/aniketsurve05?logo=twitter&style=for-the-badge" alt="aniketsurve05" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Backend Development**
-
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
